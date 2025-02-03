@@ -1,5 +1,5 @@
-# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
-The code I was given were complete code to setup the game's environment and experience replay, build a neural network model, and play the game. I also received skeleton code that contained the perimeters and pseudocode needed to complete the Q-training algorithm. The code I created myself is the Q-training algorithm code block that implements deep Q-training to find the best route for the agent to find the treasure cell while maximizing the reward. My implementation determined the optimal number of epochs that achieves a 100%-win rate.
+# About project
+I was given code to setup a maze's environment and experience replay, build a neural network model, and play the game. I also received skeleton code that contained the perimeters and pseudocode needed to complete the Q-training algorithm. The code I created myself is the Q-training algorithm code block that implements deep Q-training to find the best route for the pirate agent to find the treasure cell while maximizing the reward. My implementation determined the optimal number of epochs that achieves a 100%-win rate.
 
 # How do I approach a problem as a computer scientist?
 By reverse engineering. This starts with defining the problem and people that it impacts. Then peeling the layers back until the root cause is found. 
