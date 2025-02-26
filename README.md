@@ -1,10 +1,10 @@
 # About
-I was given code to setup a maze's environment and experience replay, build a neural network model, and play the game. I also received skeleton code that contained the perimeters and pseudocode needed to complete the Q-training algorithm. The code I created myself is the Q-training algorithm code block that implements deep Q-training to find the best route for the pirate agent to find the treasure cell while maximizing the reward. My implementation determined the optimal number of epochs that achieves a 100%-win rate.
+I created a Q-training algorithm code block that implements deep Q-training for a pirate agent to find the best route to a treasure cell while maximizing the reward. My implementation determined the optimal number of epochs that achieves a 100%-win rate.
 
 # How do I approach a problem as a computer scientist?
 By reverse engineering. This starts with defining the problem and people that it impacts. Then peeling the layers back until the root cause is found. 
 
-# What are my ethical responsibilities to the end user and the organization?
+# What are my ethical responsibilities to the end user and organization?
 To design and develop using the principles of:
 •	Responsible research and innovation [RRI] – This principle ensures that both the processes and outcomes of research and innovation are ethical and transparent. RRI is built on a culture where stakeholders are involved early on in the research process, transparency exists throughout the processes, and there is an openness and responsiveness to concerns that may arise from stakeholders. In summary, this effort offers the ability to be proactive in ensuring the research that eventually leads to innovations are ethical at the start, rather than waiting to react to unethical outcomes of said research after the innovations have been created.
 •	Ethics by design – This principle ensures that AI technologies are ethically created using six values that are a part of each technology’s design process. These values are:
